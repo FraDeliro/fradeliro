@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 my name is Francesco</h1>
+<h3 align="center">I'm a passionate iOS Engineer. 👨🏽‍💻 Clean code and UX lover, constantly interested in learning new mobile technologies.</h3>
 
-<!--
-**FraDeliro/fradeliro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fradeliro" alt="fradeliro" /> </p>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fradeliro&show_icons=true&count_private=true" alt="fradeliro" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fradeliro&hide=html" alt="fradeliro" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 󠀠 I’m currently working @[Glovo](https://github.com/Glovo?language=swift)
+
+- 📫 󠀠󠀠 How to reach me **f.deliro@gmail.com**
+
+
+<p align="center">
+<a href="https://dev.to/fradeliro" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/devpost.png" alt="fradeliro" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/francesco-deliro" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="francesco-deliro" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/3890770" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="3890770" height="30" width="30" /></a>
+<a href="https://medium.com/@fradeliro" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/medium-monogram.png" alt="@fradeliro" height="30" width="30" /></a>
+</p>
