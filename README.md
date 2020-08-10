@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://dev.to/fradeliro" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/devpost.png" alt="fradeliro" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/francesco-deliro-0961404a" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="francesco-deliro" height="30" width="30" /></a>
+<a href="https://es.linkedin.com/in/francesco-deliro-0961404a" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="francesco-deliro" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/3890770" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="3890770" height="30" width="30" /></a>
 <a href="https://medium.com/@francescodeliro" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/medium-monogram.png" alt="@fradeliro" height="30" width="30" /></a>
 </p>
