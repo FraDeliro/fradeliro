@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋 my name is Francesco</h1>
-<h3 align="center">I'm a passionate iOS Engineer. 👨🏽‍💻 Clean code and UX lover, constantly interested in learning new mobile technologies.</h3>
+<h3 align="center">I'm a passionate iOS Engineer󠀠<br>
+󠀠󠀠👨🏽‍💻 󠀠󠀠Clean code and UX lover, constantly interested in learning new mobile technologies.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fradeliro" alt="fradeliro" /> </p>
 
