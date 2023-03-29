@@ -7,7 +7,9 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fradeliro&show_icons=true&count_private=true" alt="fradeliro" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fradeliro&hide=html" alt="fradeliro" /> </p>
 
-- 🔭 󠀠 I’m currently working @[Glovo](https://github.com/Glovo?language=swift)
+- 🔭 󠀠 I’m currently working [@Bestever](https://www.bestever.AI)
+
+- 💻 [GitLab](https://gitlab.com/francesco.bestever)
 
 - 📫 󠀠󠀠 How to reach me **f.deliro@gmail.com**
 
